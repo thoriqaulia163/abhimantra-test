@@ -15,9 +15,16 @@ Setelah mempersiapkan hal-hal sebelumnya & melakukan pull project ke local compu
 untuk melakukannya ikuti tutorial berikut:
 - [connect laravel to postgresql](https://www.youtube.com/watch?v=vrJUMNXgppw).
 
-setelah itu kita memasukkan command:
+setelah itu kita memasukkan 3 command berikut:
 ```bash
 npm install
+```
+```bash
+npm install
+```
+
+```bash
+php artisan key:generate
 ```
 
 setelah mengkoneksikan postgresql dengan laravel & melakukan install package, maka kita bisa lanjut melakukan migrasi database menggunakan command:
