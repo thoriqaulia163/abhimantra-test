@@ -17,7 +17,7 @@ untuk melakukannya ikuti tutorial berikut:
 
 setelah itu kita memasukkan 3 command berikut:
 ```bash
-npm install
+composer install
 ```
 ```bash
 npm install
